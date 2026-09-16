@@ -1,3 +1,10 @@
+## [0.0.8](https://github.com/misty-step/pi-config/compare/v0.0.7...v0.0.8) (2026-09-16)
+
+
+### Features
+
+* **openrouter-live:** bridge pi's model catalog to the live OpenRouter list ([7590ad2](https://github.com/misty-step/pi-config/commit/7590ad2de53fe553e9015cd8fc1ed3eea10c5795))
+
 ## [0.0.7](https://github.com/misty-step/pi-config/compare/v0.0.6...v0.0.7) (2026-09-16)
 
 
