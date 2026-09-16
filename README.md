@@ -1,3 +1,6 @@
+> **Moved to [misty-step/harness](https://github.com/misty-step/harness/tree/main/pi-config).**
+> This repository is a read-only historical archive. Clone [harness](https://github.com/misty-step/harness) for current source, setup, issues and releases.
+
 # pi-config
 
 Pi coding-agent configuration for Phaedrus / Misty Step. This is the versioned
